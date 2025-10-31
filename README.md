@@ -1,4 +1,4 @@
-# Pricing d’options européennes : Modèles Black-Scholes et Heston
+# Pricing d’options européennes : Modèles Black-Scholes et Heston (Projet en cours)
 
 ## 🎯 Objectif
 Comparer deux modèles de pricing d’options — Black-Scholes (volatilité constante) et Heston (volatilité stochastique) — et calibrer leurs paramètres sur des données réelles.
